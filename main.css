@@ -138,6 +138,10 @@ form {
     justify-content: center;
 }
 
+.box-form a {
+    color: rgb(75,36,122);
+}
+
 /*RODAPÉ*/
 
 .rodape .container {
